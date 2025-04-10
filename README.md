@@ -2,7 +2,7 @@
 
 Um projeto frontend feito com **Vite + React + TailwindCSS**, com foco em UI criativa para **telas de login responsivas e interativas**.
 
-Cada vez que você recarrega (ou escolhe no menu), uma nova tela de login é exibida com um estilo visual totalmente diferente. Ótimo para se inspirar, testar ou demonstrar conceitos de design e UX.
+Cada vez que você recarrega (ou escolhe no menu), uma nova tela de login é exibida com um estilo visual totalmente diferente. Ótimo para se inspirar, testar ou demonstrar conceitos de design e UX. (SO QUE NAO PQ A COMUNIDADE FALO QUE ISSO E BUG)
 
 ---
 
@@ -11,8 +11,6 @@ Cada vez que você recarrega (ou escolhe no menu), uma nova tela de login é exi
 - Login 1 — layout dividido com destaque em azul
 - Login 2 — visual dark futurista com corte diagonal
 - Login 3 — círculo animado com efeito de pulsação ao redor do formulário
-
-## 📸 ScreenShots
 
 ---
 
@@ -35,6 +33,18 @@ npm run dev
 ```
 
 Abra no navegador: [http://localhost:5173](http://localhost:5173)
+
+
+---
+
+## 📸 ScreenShots
+### TELA 1
+![TELA 1](https://github.com/user-attachments/assets/dd1c695f-eda9-4f4e-b2c6-dcd1bdd49183)
+### TELA 2
+![TELA 2](https://github.com/user-attachments/assets/c0735fb9-63f6-487c-b4f6-4ea2be7e61b1)
+### TELA 3
+![TELA 3](https://github.com/user-attachments/assets/118e1cff-a8a6-4908-93d4-41b70710e5da)
+
 
 ---
 

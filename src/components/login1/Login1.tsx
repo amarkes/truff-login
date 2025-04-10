@@ -23,12 +23,12 @@ export default function Login1() {
             <input
               type="text"
               placeholder="Email"
-              className="w-full px-4 py-2 border border-blue-500 rounded-md focus:outline-none focus:ring-2 focus:ring-black"
+              className="w-full px-4 py-2 border border-blue-500 rounded-md focus:outline-none focus:ring-2 focus:ring-black placeholder-gray-400 text-black"
             />
             <input
               type="password"
               placeholder="Password"
-              className="w-full px-4 py-2 border border-blue-500 rounded-md focus:outline-none focus:ring-2 focus:ring-black"
+              className="w-full px-4 py-2 border border-blue-500 rounded-md focus:outline-none focus:ring-2 focus:ring-black placeholder-gray-400 text-black"
             />
             <div className="text-right text-sm text-blue-600 cursor-pointer hover:underline">
               Forgot password?

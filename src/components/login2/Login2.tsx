@@ -16,7 +16,7 @@ export default function Login2() {
               <FaUser className="mr-2 text-gray-400" />
               <input
                 type="text"
-                placeholder="Username"
+                placeholder="Email"
                 className="bg-transparent outline-none flex-1 text-white"
               />
             </div>

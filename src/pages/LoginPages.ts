@@ -6,7 +6,6 @@ const loginPages = [
   Login1,
   Login2,
   Login3,
-  // Adicione os demais conforme for criando
 ];
 
 export default loginPages;

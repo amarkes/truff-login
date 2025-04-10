@@ -1,12 +1,56 @@
-# React + Vite
+# 🔐 Login Screens Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto frontend feito com **Vite + React + TailwindCSS**, com foco em UI criativa para **telas de login responsivas e interativas**.
 
-Currently, two official plugins are available:
+Cada vez que você recarrega (ou escolhe no menu), uma nova tela de login é exibida com um estilo visual totalmente diferente. Ótimo para se inspirar, testar ou demonstrar conceitos de design e UX.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Telas disponíveis
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Login 1 — layout dividido com destaque em azul
+- Login 2 — visual dark futurista com corte diagonal
+- Login 3 — círculo animado com efeito de pulsação ao redor do formulário
+
+## 📸 ScreenShots
+
+---
+
+## 🧪 Tecnologias
+
+- [Vite](https://vitejs.dev/) — build ultrarrápido
+- [React](https://react.dev/) — biblioteca de UI
+- [Tailwind CSS](https://tailwindcss.com/) — utilitários CSS
+- [React Icons](https://react-icons.github.io/react-icons/) — ícones sociais
+
+---
+
+## 🚀 Rodar localmente
+
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+cd seu-repo
+npm install
+npm run dev
+```
+
+Abra no navegador: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🎮 Como funciona
+
+- Ao iniciar, uma das telas é sorteada
+- No menu superior, você pode alternar entre todas as telas disponíveis manualmente
+
+---
+
+## 🤝 Contribuindo
+
+Pull requests são bem-vindos! Sinta-se livre para sugerir melhorias, novos layouts ou animações.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
